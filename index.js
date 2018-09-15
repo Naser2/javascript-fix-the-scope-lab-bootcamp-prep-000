@@ -35,4 +35,4 @@ var funkyFunction = function() {
 //   })
 // theFunk()
 
-funkyFunction()();
+const theFunk = funkyFunction()();
